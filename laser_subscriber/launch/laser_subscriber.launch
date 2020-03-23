@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="laser_subscriber" type="laser_subscriber.py" name="laser_sub_node" output="screen" />
+</launch>
